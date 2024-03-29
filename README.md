@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Joshua Rossi
+- 👋 Hi, I’m Shauna Rossi
 - 👀 I’m interested in VR, communications, networking, game design, and robotics
-- 🌱 I’m currently learning Computer Science and Information Systems at Salt Lake Community College
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I have obtained an Associate's of Science in Computer Science and Information Systems from Salt Lake Community College
+<!--- - 💞️ I’m looking to collaborate on ... --->
+- 📫 You can reach me at shauna.daniel.rossi@gmail.com
 
 <!---
 ShuaRossi/ShuaRossi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
